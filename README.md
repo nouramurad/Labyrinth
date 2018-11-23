@@ -1,5 +1,5 @@
 # Labyrinth
-Game Designed by Jason Kemp, and Noura Murad
+Game designed and developed by Jason Kemp, and Noura Murad
 Section I:
 “The Labyrinth is a survival puzzle/maze game”. The game is drawn with a two dimensional
 bird’s eye view, and have rooms that are drawn with different colours and corridors that are
